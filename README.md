@@ -19,6 +19,6 @@ The kernel density estimation of normalised difference between the ground truth 
 <br clear="left"/>
 Examples of contour plots:
 <br clear="left"/>
-<img align="left" src="https://user-images.githubusercontent.com/60877890/173540153-d1671bad-6512-4465-b1c8-d9d22d9920bc.jpg" width="300" height="600">
+<img align="left" src="https://user-images.githubusercontent.com/60877890/173540153-d1671bad-6512-4465-b1c8-d9d22d9920bc.jpg" width="350" height="500">
 
 
