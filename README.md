@@ -11,7 +11,7 @@ Expressions of the magnetic field:
 <br clear="left"/>
 The Deep learning based model:
 <br clear="left"/>
-<img align="left" src="https://user-images.githubusercontent.com/60877890/170803515-b7c537bb-57fd-405d-8817-ab6909fbc2c3.png" width="450" height="300">
+<img align="left" src="https://user-images.githubusercontent.com/60877890/170803515-b7c537bb-57fd-405d-8817-ab6909fbc2c3.png" width="500" height="300">
 <br clear="left"/>
 The kernel density estimation of normalised difference between the ground truth and predicted values.
 <br clear="left"/>
