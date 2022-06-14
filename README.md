@@ -7,7 +7,7 @@ We have also included the codes to generate training/validation and testing data
 <br clear="left"/>
 Expressions of the magnetic field:
 <br clear="left"/>
-<img align="left" src="https://user-images.githubusercontent.com/60877890/173536047-1c5ac4f0-0373-4cf6-b2aa-f800232fe14e.jpg" width="450" height="300">
+<img align="left" src="https://user-images.githubusercontent.com/60877890/173536047-1c5ac4f0-0373-4cf6-b2aa-f800232fe14e.jpg" width="500" height="300">
 <br clear="left"/>
 The Deep learning based model:
 <br clear="left"/>
