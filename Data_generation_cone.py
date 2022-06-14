@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+This code package is to generate data for the conical permanent magnet
 Created on Fri Oct  8 11:19:43 2021
 
 @author: s4612643
