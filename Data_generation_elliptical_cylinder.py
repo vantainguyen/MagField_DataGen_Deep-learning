@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+This code package is to generate data for the elliptical cylinder permanent magnet
 Created on Wed Nov 17 15:10:12 2021
 
 @author: s4612643
