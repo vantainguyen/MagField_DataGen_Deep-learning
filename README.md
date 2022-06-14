@@ -3,7 +3,7 @@
 Here are the codes utilized in our project which has been published in Journal of Magnetism and Magnetic Materials: https://www.sciencedirect.com/science/article/pii/S0304885322004449
 (https://doi.org/10.1016/j.jmmm.2022.169521).
 We have also included the codes to generate training/validation and testing datasets for the Cone and Elliptical cylinder.
-![image](https://user-images.githubusercontent.com/60877890/170803498-eee8b4a6-fe5b-4a22-adc9-f3e76db178ad.png)
+<img src="https://user-images.githubusercontent.com/60877890/170803498-eee8b4a6-fe5b-4a22-adc9-f3e76db178ad.png" width="100" height="100">
 Expressions of the magnetic field:
 ![Expressions](https://user-images.githubusercontent.com/60877890/173536047-1c5ac4f0-0373-4cf6-b2aa-f800232fe14e.jpg)
 The Deep learning based model:
