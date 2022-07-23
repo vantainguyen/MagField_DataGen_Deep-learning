@@ -450,7 +450,7 @@ def main_func_diam_axial(h, R, phi, r, z, beta, alpha):
     
     return (main_1 - main_2 - main_3)*cos(alpha)
 
-def B_cone_diam_axial(J, phi, h, r, z, beta):
+def B_cone_diam_axial(J, h, phi, r, z, beta):
     R = h*tan(phi)
     integral_B = quad(lambda alpha: main_func_diam_axial(h, R, phi, r, z, beta, alpha), 0, 2*pi)[0]
     return J*sin(2*phi)/8/pi*integral_B
@@ -488,7 +488,7 @@ def main_func_diam_azimuthal(h, R, phi, r, z, beta, alpha):
     return main_4*sin(beta - alpha)*cos(alpha)
 
 
-def B_cone_diam_azimuthal(J, phi, h, r, z, beta):
+def B_cone_diam_azimuthal(J, h, phi, r, z, beta):
     R = h*tan(phi)
     integral_B = quad(lambda alpha: main_func_diam_azimuthal(h, R, phi, r, z, beta, alpha), 0, 2*pi)[0]
     return J*sin(phi)*sin(2*phi)/8/pi*integral_B
@@ -532,7 +532,7 @@ def main_func_diam_radial(h, R, phi, r, z, beta, alpha):
     return main_4*cos(alpha)
 
 
-def B_cone_diam_radial(J, phi, h, r, z, beta):
+def B_cone_diam_radial(J, h, phi, r, z, beta):
     R = h*tan(phi)
     integral_B = quad(lambda alpha: main_func_diam_radial(h, R, phi, r, z, beta, alpha), 0, 2*pi)[0]
     return J*sin(2*phi)/8/pi*integral_B
