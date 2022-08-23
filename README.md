@@ -1,4 +1,4 @@
-# MagField_DataGen_Deep-learning
+# Efficient Modelling of Permanent Magnet Field Distribution for Deep Learning Applications
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
